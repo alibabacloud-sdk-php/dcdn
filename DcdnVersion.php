@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Dcdn
  *
- * @method V20180115\DcdnApiResolver v20180115()
+ * @method static V20180115\DcdnApiResolver v20180115()
  */
-class Dcdn
+class DcdnVersion
 {
     use VersionResolverTrait;
 }

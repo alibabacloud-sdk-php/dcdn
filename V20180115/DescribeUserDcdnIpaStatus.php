@@ -5,12 +5,12 @@ namespace AlibabaCloud\Dcdn\V20180115;
 use AlibabaCloud\Rpc;
 
 /**
- * Api DescribeCdnUserResourcePackage
+ * Api DescribeUserDcdnIpaStatus
  *
  * @method string getSecurityToken()
  * @method string getOwnerId()
  */
-class DescribeCdnUserResourcePackage extends Rpc
+class DescribeUserDcdnIpaStatus extends Rpc
 {
     public $product = 'dcdn';
 
